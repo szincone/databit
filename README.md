@@ -1,3 +1,4 @@
-# databit
+# DataBit
 
-### Personal site dealing with data recovery.
+### Small business site dealing with computer data recovery.
+#### Highly modified version of Hyperspace Template by HTML5.
