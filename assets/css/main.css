@@ -3907,3 +3907,9 @@ input, select, textarea {
 			}
 
 		}
+/* Gets rid of images on mobile */
+@media (max-width: 800px) {
+	section .image {
+		display: none !important;
+	}
+}
